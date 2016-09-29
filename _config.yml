@@ -4,7 +4,8 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
+gems: 		  [jekyll-paginate]
+
 # Setup
 title:            Data and Stuff 
 tagline:          'My blog of class assignments and exploring data science'
