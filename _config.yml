@@ -16,6 +16,7 @@ baseurl:          /
 author:
   name:           'DINESH HEMNANI'
   url:            https://dineshhmn.github.io
+  github:         https://github.com/dineshhmn
 
 paginate:         5
 
